@@ -5,3 +5,5 @@ Word Embeddings have been crucial in determing the context and sense of the word
 Hence, this experiment was proposed to test the stability of various word embeddings across varying Datasets like European Parliament, Song Lyrics, Wikipedia Datasets, etc, and across varying hyperparameters like No. of Dimensions (50d,100d, 300d), No. of neighbours, Context Vectors, Frequency of Words across State-of-the-Art Tasks.
 
 Inspiration for the project: https://arxiv.org/pdf/1804.09692.pdf 
+
+Codes and Datasets are confidential, kindly mail at ritam170107030@iitg.ac.in for details.
